@@ -1,10 +1,14 @@
 [
     {
         "HospitalCode":87191,
+        "Account":"87191_BV",
+        "Password":"MRMYNPF4RS0",
         "State":200
     },
     {
         "HospitalCode":87158,
+        "Account":"87158_BV",
+        "Password":"MRMYNPF4RS0",
         "State":200
     }
 ]
